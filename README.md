@@ -1,4 +1,4 @@
-# ✨ VELNIX VPN
+# ✨ VELNIX-Telegram-Config
 
 Премиальный VPN config для стабильного и комфортного доступа к Telegram.  
 Минимум лишнего — максимум удобства.
