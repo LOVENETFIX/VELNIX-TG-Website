@@ -1,0 +1,28 @@
+# Игнорировать системные папки Windows
+AppData/
+Local Settings/
+$RECYCLE.BIN/
+Thumbs.db
+
+# Игнорировать временные файлы
+*.log
+*.tmp
+*.bak
+
+# Игнорировать кэш браузеров
+.YandexBrowser/
+MicrosoftEdge/
+Chrome/
+
+# Игнорировать IDE и редакторы
+.vscode/
+.idea/
+
+# Игнорировать папки сборки
+node_modules/
+dist/
+build/
+
+# Любые другие временные файлы
+*.swp
+*.DS_Store
